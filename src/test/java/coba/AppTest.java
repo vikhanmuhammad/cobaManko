@@ -1,7 +1,7 @@
 package src.test.java.coba;
 
 import static org.junit.Assert.assertTrue;
-import src.main.java.*;
+import src.main.java.coba.TanggalHelper;
 import org.junit.Test;
 import org.junit.jupiter.api.Test;
 import java.time.LocalDateTime;
